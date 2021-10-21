@@ -7,6 +7,8 @@
 #'
 #' @examples
 #' square_val(2)
+#' tt
 square_val <- function(x) {
   x^2
 }
+
